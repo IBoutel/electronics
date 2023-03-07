@@ -29,6 +29,7 @@ Type D:
 
 Type C:
 - KC-1: Basic WiFi-enabled rp2040 microcontroller board in Arduino uno form factor
+- KC-2: Full touchscreen WiFi-enabled rp2040 computer with battery
 
 Type E:
 - KE-1: TFT touchscreen shield for Arduino uno pinout
