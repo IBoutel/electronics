@@ -28,7 +28,7 @@ Type D:
 - KD-2: Brushed DC motor driver
 
 Type C:
-- KC-1: Basic WiFi-enabled rp2040 microcontroller board in Arduino uno form factor
+- KC-1: Basic rp2040 microcontroller board in Arduino uno form factor
 - KC-2: Full touchscreen WiFi-enabled rp2040 computer with battery
 
 Type E:
