@@ -4,8 +4,8 @@ A collection of electronics projects
 ## Contents
 - [Naming Convention](#naming-convention)
 - [Microcontroller Board Standards](#microcontroller-board-standards)
-    - [KS-001][#KS-001]
-    - [KS-002][#KS-002]
+    - [KS-001](#KS-001)
+    - [KS-002](#KS-002)
 - [Existing Project List](#existing-project-list)
 - [Planned Project List](#planned-project-list)
 
