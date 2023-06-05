@@ -3,6 +3,9 @@ A collection of electronics projects
 
 ## Contents
 - [Naming Convention](#naming-convention)
+- [Microcontroller Board Standards](#microcontroller-board-standards)
+    - [KS-001][#KS-001]
+    - [KS-002][#KS-002]
 - [Existing Project List](#existing-project-list)
 - [Planned Project List](#planned-project-list)
 
@@ -14,6 +17,14 @@ Project are named in the following manner:
 Where `t` is the type of project; `n` is the project number; `v` is the project version. The type can either be `D` for a non-computer device (e.g. battery charger); `C` for a computer (e.g. microcontroller board); `E` for an extension module (e.g. arduino shield).
 
 An example could be `KC-2-3`, which would be the second computer I designed in its 3rd version.
+
+## Microcontroller Board Standards
+
+### KS-001
+A standard for the GPIO pin layout for microcontroller boards
+
+### KS-002
+A standard for reserved GPIO pins for RP2040-based microcontroller boards
 
 ## Existing Project List
 
@@ -28,8 +39,8 @@ Type D:
 - KD-2: Brushed DC motor driver
 
 Type C:
-- KC-1: Basic rp2040 microcontroller board
-- KC-2: Full touchscreen WiFi-enabled rp2040 computer with battery
+- KC-1: WiFi-enabled rp2040 microcontroller board (KS-001, KS-002)
+- KC-2: Capacitive touchscreen WiFi-enabled rp2040-based computer with battery
 
 Type E:
 - KE-1: TFT touchscreen shield for Arduino uno pinout
