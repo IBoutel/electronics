@@ -50,4 +50,4 @@ Type D:
 - KD-2: Brushed DC motor driver
 
 Type E:
-- KE-1: TFT touchscreen shield for Arduino uno pinout
+- KE-1: TFT touchscreen shield for KS-001 compliant boards
