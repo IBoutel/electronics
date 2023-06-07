@@ -44,12 +44,6 @@ Type C:
     - Current ID: KC-2-1
     - Status: Awaiting production
 
-Type S:
-- KS-1:
-    - Versions: 0
-    - Current ID: N/A
-    - Status: Planning
-
 ## Planned Project List
 
 Type D:
