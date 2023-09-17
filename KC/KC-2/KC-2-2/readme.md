@@ -18,5 +18,5 @@ The KC-2 makes use of a Raspberry Pi RP2040 microcontroller, a WIZnet WizFi 360 
   - 264kB
 
 - Storage:
-  - SSD
+  - Flash
   - 16MB
