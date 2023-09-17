@@ -13,7 +13,7 @@ Project are named in the following manner:
 
 `K<t>-<n>-<v>`
 
-Where `t` is the type of project; `n` is the project number; `v` is the project version. The type can either be `D` for a non-computer device (e.g. battery charger); `C` for a computer (e.g. microcontroller board); `E` for an extension module (e.g. arduino shield); `S` for devices designed for a specific project (e.g. rc car ECU).
+Where `t` is the type of project; `n` is the project number; `v` is the project version. The type can either be `D` for a non-computer device (e.g. battery charger); `C` for a computer (e.g. microcontroller board); `E` for an extension module (e.g. arduino shield).
 
 An example could be `KC-2-3`, which would be the second computer I designed in its 3rd version.
 
